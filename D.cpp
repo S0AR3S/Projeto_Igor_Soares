@@ -12,5 +12,9 @@ class D{
 	
 	float D2(){
 
-	};	
+	};
+	
+	void MD4(){
+		cout << "MD4" << endl;
+	};
 }
